@@ -1,0 +1,9 @@
+{
+	"name": "WebGL Perf",
+	"launch_path": "/app-index.html",
+	"package_path": "PACKAGE_ROOT/application.zip",
+	"version": "1.0",
+	"developer": {
+		    "name": "Vladimir Vukicevic"
+	}
+}
